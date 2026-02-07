@@ -22,7 +22,7 @@ This implementation uses a **simple query-string API + optional filter DSL** (Op
 Depends on:
 
 - [tantivy.swift](https://github.com/botisan-ai/tantivy.swift)
-- [HNSW.swift](https://github.com/lhr0909/HNSW.swift)
+- [HNSW.swift](https://github.com/botisan-ai/HNSW.swift)
 
 ## Quick Start
 

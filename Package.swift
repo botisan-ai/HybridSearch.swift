@@ -15,8 +15,8 @@ let package = Package(
         ),
     ],
     dependencies: [
-        .package(url: "https://github.com/botisan-ai/tantivy.swift.git", from: "0.3.1"),
-        .package(url: "https://github.com/lhr0909/HNSW.swift.git", from: "0.2.0"),
+        .package(url: "https://github.com/botisan-ai/tantivy.swift.git", from: "0.3.2"),
+        .package(url: "https://github.com/botisan-ai/HNSW.swift.git", from: "0.2.2"),
     ],
     targets: [
         .target(

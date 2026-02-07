@@ -1,13 +1,13 @@
 {
-  "originHash" : "6346520eae9a400b770fc138daa595be860636e5ace526c133b3af915082d8d3",
+  "originHash" : "a72ec15589c7e13765520e33f1d10d39b504e1b7a3f02c8e210703f633699b6a",
   "pins" : [
     {
       "identity" : "hnsw.swift",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/lhr0909/HNSW.swift.git",
+      "location" : "https://github.com/botisan-ai/HNSW.swift.git",
       "state" : {
-        "revision" : "9f8ed606014775defce79a88bb1e21ac5db1dd4e",
-        "version" : "0.2.0"
+        "revision" : "f1b73c422d95f0d22e6566b54de2c1a85f2974ba",
+        "version" : "0.2.2"
       }
     },
     {
@@ -24,8 +24,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/botisan-ai/tantivy.swift.git",
       "state" : {
-        "revision" : "e67ce4b7631bea29c63d8df1fbbcbc8c6d08728d",
-        "version" : "0.3.1"
+        "revision" : "37b661b1e071f9eb2a3c42a52fb90a94d48a129b",
+        "version" : "0.3.2"
       }
     }
   ],
